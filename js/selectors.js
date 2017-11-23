@@ -19,3 +19,9 @@ function divSelector() {
 
 return $('div:last, div:first')
 }
+
+function firstListItem() {
+  return $('#pic-list:first-child')
+}
+
+  
