@@ -21,5 +21,5 @@ return $('div:last, div:first')
 }
 
 function firstListItem() {
-  return $('li #pic-list:first-child')
+  return $('div #pic-list:first-child')
 }
